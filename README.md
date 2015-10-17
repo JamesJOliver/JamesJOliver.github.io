@@ -1,4 +1,4 @@
-#[james12802.github.io][j]
+#[JamesJOliver.github.io][j]
 
 Personal blog of [James Oliver][j] - built with [Jekyll][jk], hosted on GitHub and using the awesomely orange [lagom-orange][lo] theme!
 
@@ -14,4 +14,4 @@ The following directories and their contents are copyrighted James Oliver and ca
 [jk]: http://jekyllrb.com/
 [ms]: http://github.com/swanson
 [l]: http://github.com/swanson/lagom
-[lo]: http://github.com/james12802/lagom-orange
+[lo]: http://github.com/JamesJOliver/lagom-orange
