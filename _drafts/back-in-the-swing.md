@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Back in the swing
+title: Back in the swing!
 categories:
 - blog
 comments: true
