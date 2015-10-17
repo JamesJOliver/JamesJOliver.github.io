@@ -1,0 +1,40 @@
+# General Jekyll Config
+highlighter: pygments
+url: www.jamesjo.co.uk
+lsi: false
+exclude: [LICENSE, CNAME, README.md, .gitignore]
+
+# Theme customization - please change from the defaults!
+theme:
+  # Colour for top bar, links, etc
+  highlight_color: '#e6801a'
+
+  # Profile links on the left sidebar, leave blank to ignore
+  social:
+    github: james12802
+    twitter: james12802
+
+    email: hello@james12802
+
+  # "Hey, I'm _______"
+  name: James Oliver
+  email: hello@james12802.com
+  tagline: 
+
+  # Google Analytics key, leave blank to ignore
+  google_analytics_key: UA-49008165-1
+
+  # Toggle "Postings are my own" disclaimer in footer
+  show_disclaimer: false
+
+  # Comments by Disqus
+  comments :
+  provider : disqus
+  disqus :
+  short_name : james12802
+
+#Timezone
+timezone: Europe/United_Kingdom
+
+#Markdown migration to "kramdown"
+markdown: kramdown
